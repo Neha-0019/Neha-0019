@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:43cea2,100:185a9d"/>
 
 *"Passionate about building technology that creates real-world impact."*
 
