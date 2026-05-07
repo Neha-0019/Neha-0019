@@ -5,7 +5,6 @@
 <h3 align="center">
   🎓 Final Year B.Tech CSE Student &nbsp;|&nbsp; 🤖 AI/ML Enthusiast &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 📊 Data Science
 </h3>
-</br>
 
 </div>
 
@@ -62,7 +61,6 @@
 </div>
 
 <br>
-
 
 ---
 
