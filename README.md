@@ -5,7 +5,7 @@
 <h3 align="center">
   🎓 Final Year B.Tech CSE Student &nbsp;|&nbsp; 🤖 AI/ML Enthusiast &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 📊 Data Science
 </h3>
-
+</br>
 
 </div>
 
@@ -57,17 +57,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neha-0019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-0019&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Neha-0019&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Neha-0019&theme=tokyonight&hide_border=true" />
-</div>
+<br>
 
-<br/>
 
 ---
 
