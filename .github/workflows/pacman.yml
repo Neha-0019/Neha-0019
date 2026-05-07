@@ -1,4 +1,4 @@
-name: Generate Pacman
+name: Generate Snake
 
 on:
   schedule:
@@ -14,15 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman Contribution Graph
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Neha-0019
           outputs: |
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Pacman Graph
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
