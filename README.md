@@ -68,7 +68,7 @@ CSE Student • AI & ML Enthusiast • Full Stack Developer • Data Science
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Neha-0019/Neha-0019/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Neha-0019/Neha-0019/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
