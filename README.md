@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20There!%20I'm%20Neha%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:43cea2,100:185a9d"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20There!%20I'm%20Neha%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:43cea2,100:185a9d"/>
 
 <h3 align="center">
   🎓 Final Year B.Tech CSE Student &nbsp;|&nbsp; 🤖 AI/ML Enthusiast &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 📊 Data Science
