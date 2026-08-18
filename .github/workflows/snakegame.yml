@@ -2,13 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight
-  workflow_dispatch:        # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: Generate Snake SVG
@@ -19,7 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           svg_out_path: dist/github-contribution-grid-snake.svg
-          # Slow down the snake — higher number = slower speed
           snake_length: 30
           animation_duration: 6
 
