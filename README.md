@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neha-0019&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-0019&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<a href="https://github.com/Neha-0019">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha-0019&theme=tokyo-night&hide_border=true" width="95%"/>
+</a>
 
 </div>
 
