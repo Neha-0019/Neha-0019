@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+reliable+AI+and+full-stack+systems.;Turning+complex+data+into+useful+products.;Learning%2C+shipping%2C+and+improving+every+day.)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_PUBLIC_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-panbude-792017294/)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehapanbude1904@gmail.com)
 [![Reconcio](https://img.shields.io/badge/Live_Project-Reconcio-2563EB?style=for-the-badge&logo=streamlit&logoColor=white)](https://reconcio-finance-controller.streamlit.app/)
 
 </div>
@@ -22,23 +22,10 @@ I build full-stack and AI-powered products with a focus on:
 → explainable decisions
 → real-world usability
 
-🧠 Interested in Software Engineering, AI/ML, Data Science, and Analytics
-🔬 Research presenter: CNN-LSTM Image Captioning at ICSTAICE 2026
-🏆 4th place at HackVega 2.0 among 47,700+ registrations
-🚀 Building systems with ML, APIs, databases, testing, and deployment
-
-<div align="center">
-
-
-## Building practical systems, end to end
-
-I am a Computer Science undergraduate at SRM Institute of Science and Technology with a **9.34/10 CGPA**. My work spans full-stack applications, distributed systems, applied machine learning, and data products - from problem definition and model design to APIs, testing, and deployment.
-
-
-UNDERSTAND  →  identify the operational problem
-ENGINEER    →  build reliable systems and APIs
-VALIDATE    →  test behaviour and make results explainable
-DELIVER     →  deploy useful products with measurable impact
+- 🧠 Interested in Software Engineering, AI/ML, Data Science, and Analytics
+- 🔬 Research presenter: CNN-LSTM Image Captioning at ICSTAICE 2026
+- 🏆 4th place at HackVega 2.0 among 47,700+ registrations
+- 🚀 Building systems with ML, APIs, databases, testing, and deployment
 
 
 <details open>
@@ -123,23 +110,41 @@ DELIVER     →  deploy useful products with measurable impact
 
 ---
 
-## A few signals of momentum
+## 📈 GitHub activity
 
-- **Research:** Authored and presented a CNN-LSTM image-captioning paper at ICSTAICE 2026.
-- **Competitive building:** Placed **4th at HackVega 2.0** from 47,700+ registrations.
-- **Leadership:** Led content and communication for a 60+ member technical club.
-- **Industry experience:** Data Science Intern at InternzLearn and Web Developer Intern at VaultofCodes.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neha-0019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-0019&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha-0019&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let’s build something useful.
+
+Open to internships, collaborations, and opportunities in  
+**Software Engineering · AI/ML · Data Science · Analytics**
+
+</div>
 
 ---
 
 ## How I build
 
-
+```mermaid
 flowchart LR
     A[Real user problem] --> B[Product and system design]
     B --> C[Build, test, and measure]
     C --> D[Deploy and iterate]
-
+```
 
 I am especially interested in software that combines strong engineering with useful intelligence: systems that are dependable for users and explainable to reviewers.
 
