@@ -1,18 +1,34 @@
 <div align="center">
 
-# Neha Panbude
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=Neha%20Panbude&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Systems&descAlignY=56&animation=fadeIn" />
 
-### Software Engineering · AI/ML · Data Systems
-
-CSE @ SRM IST · Full-stack systems · Applied AI/ML
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+reliable+AI+and+full-stack+systems.;Turning+complex+data+into+useful+products.;Learning%2C+shipping%2C+and+improving+every+day.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Selected_Projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](#selected-projects)
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_PUBLIC_EMAIL)
+[![Reconcio](https://img.shields.io/badge/Live_Project-Reconcio-2563EB?style=for-the-badge&logo=streamlit&logoColor=white)](https://reconcio-finance-controller.streamlit.app/)
 
 </div>
 
 ---
+
+## 👋 About me
+
+CSE undergraduate at SRM IST | CGPA: 9.34 / 10 | Graduating: 2027
+
+I build full-stack and AI-powered products with a focus on:
+→ clean architecture
+→ data reliability
+→ explainable decisions
+→ real-world usability
+
+🧠 Interested in Software Engineering, AI/ML, Data Science, and Analytics
+🔬 Research presenter: CNN-LSTM Image Captioning at ICSTAICE 2026
+🏆 4th place at HackVega 2.0 among 47,700+ registrations
+🚀 Building systems with ML, APIs, databases, testing, and deployment
+
+<div align="center">
+
 
 ## Building practical systems, end to end
 
