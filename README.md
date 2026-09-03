@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=Neha%20Panbude&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full--Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=Neha%20Panbude&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+reliable+AI+and+full-stack+systems.;Turning+complex+data+into+useful+products.;Learning%2C+shipping%2C+and+improving+every+day.)](https://git.io/typing-svg)
 
