@@ -1,115 +1,115 @@
+```md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20There!%20I'm%20Neha%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:43cea2,100:185a9d"/>
+# Neha Panbude
 
-<h3 align="center">
-  🎓 Final Year B.Tech CSE Student &nbsp;|&nbsp; 🤖 AI/ML Enthusiast &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 📊 Data Science
-</h3>
+### Software Engineering · AI/ML · Data Systems
+
+`CSE @ SRM IST` · `Full-stack systems` · `Applied AI/ML` · `Class of 2027`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Selected_Projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](#selected-projects)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_PUBLIC_EMAIL)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## Building practical systems, end to end
 
-- 🎓 B.Tech CSE Student at SRM Institute of Science and Technology, Chennai
-- 🔐 Interested in AI/ML, Full Stack Development and Data Science
-- 🚀 Building impactful AI-powered applications and scalable web solutions
-- 🌱 Currently learning DSA, System Design, and Cloud Technologies
+I am a Computer Science undergraduate at SRM Institute of Science and Technology with a **9.34/10 CGPA**. My work spans full-stack applications, distributed systems, applied machine learning, and data products - from problem definition and model design to APIs, testing, and deployment.
 
----
+```text
+UNDERSTAND  →  identify the operational problem
+ENGINEER    →  build reliable systems and APIs
+VALIDATE    →  test behaviour and make results explainable
+DELIVER     →  deploy useful products with measurable impact
+```
 
-## 🛠️ Tech Stack
-
-### 💬 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web & Frameworks
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 AI / Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Neha-0019">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neha-0019&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</a>
-
-</div>
-
+<details open>
+<summary><b>What I care about</b></summary>
 <br>
 
----
+- Full-stack engineering: React interfaces, Flask/FastAPI services, databases, and APIs.
+- Applied AI/ML: computer vision, NLP, fraud detection, explainability, and analytics.
+- Systems thinking: retries, queues, validation, observability, audit trails, and role-based workflows.
+- Open to software engineering, AI/ML, data science, and analytics opportunities.
 
-## 👾 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neha-0019/Neha-0019/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neha-0019/Neha-0019/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Neha-0019/Neha-0019/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+</details>
 
 ---
 
-## 🌐 Connect With Me
+## Engineering toolkit
 
 <div align="center">
 
-<a href="https://linkedin.com/in/neha-panbude-792017294" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-&nbsp;
+**Data & AI**<br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-<a href="mailto:nehapanbude1904@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Neha-0019" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Product & platform**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+
+---
+
+## Selected projects
+
+| Project | What it demonstrates | Tech |
+| --- | --- | --- |
+| **[VisionSpeaks](https://github.com/Neha-0019/VisionSpeaks)** | AI image-caption generator using a ResNet-50 encoder and LSTM decoder to turn visual inputs into natural-language descriptions. | Python · PyTorch · ResNet-50 · LSTM |
+| **[PhishNet](https://github.com/Neha-0019/PhishNet)** | Explainable phishing-detection platform using Random Forest, XGBoost, and SVM, with a Flask API, React dashboard, SHAP, bulk URL scanning, and Chrome extension. | Python · JavaScript · Flask · React · SHAP |
+| **[Jobsphere Distributed Job Scheduler](https://github.com/Neha-0019/Jobsphere-Distributed-Job-Scheduler)** | Production-inspired job scheduler with user management, worker orchestration, retries, dead-letter queues, and workflow dependencies. | React · Flask · SQLAlchemy · PostgreSQL |
+| **[LeaveTrack](https://github.com/Neha-0019/LeaveTrack)** | Enterprise leave-management system with auditable policy rules, role-based workflows, KPI reporting, and automated testing. | Python · Flask · SQLite · Pytest |
+| **[WasteVision-AI](https://github.com/Neha-0019/WasteVision-AI)** | Computer-vision system for automated waste classification and smart sorting with real-time analytics. | Python · EfficientNetV2 · Flask · ML |
+| **[Reconcio](https://github.com/Neha-0019/Reconcio)** | Explainable AI finance controller for gateway, bank, and ledger reconciliation with audit evidence and honest exceptions. | [Live App](https://reconcio-finance-controller.streamlit.app/) · FastAPI · Streamlit · SQLite |
+
+---
+
+## A few signals of momentum
+
+- **Research:** Authored and presented a CNN-LSTM image-captioning paper at ICSTAICE 2026.
+- **Competitive building:** Placed **4th at HackVega 2.0** from 47,700+ registrations.
+- **Leadership:** Led content and communication for a 60+ member technical club.
+- **Industry experience:** Data Science Intern at InternzLearn and Web Developer Intern at VaultofCodes.
+
+---
+
+## How I build
+
+```mermaid
+flowchart LR
+    A[Real user problem] --> B[Product and system design]
+    B --> C[Build, test, and measure]
+    C --> D[Deploy and iterate]
+```
+
+I am especially interested in software that combines strong engineering with useful intelligence: systems that are dependable for users and explainable to reviewers.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:43cea2,100:185a9d"/>
-
-*"Passionate about building technology that creates real-world impact."*
+**Open to internships, collaborations, and full-time opportunities in software engineering, AI/ML, data science, and analytics.**
 
 </div>
+```
+
+Replace these before saving:
+
+```text
+YOUR_LINKEDIN_URL
+YOUR_PUBLIC_EMAIL
+```
