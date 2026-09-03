@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=Neha%20Panbude&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Systems&descAlignY=56&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=Neha%20Panbude&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full--Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=56&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+reliable+AI+and+full-stack+systems.;Turning+complex+data+into+useful+products.;Learning%2C+shipping%2C+and+improving+every+day.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-panbude-792017294/)
+
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehapanbude1904@gmail.com)
-[![Reconcio](https://img.shields.io/badge/Live_Project-Reconcio-2563EB?style=for-the-badge&logo=streamlit&logoColor=white)](https://reconcio-finance-controller.streamlit.app/)
+
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Opportunities-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](mailto:nehapanbude1904@gmail.com)
 
 </div>
 
@@ -14,19 +16,12 @@
 
 ## 👋 About me
 
-CSE undergraduate at SRM IST | CGPA: 9.34 / 10 | Graduating: 2027
-
-I build full-stack and AI-powered products with a focus on:
-→ clean architecture
-→ data reliability
-→ explainable decisions
-→ real-world usability
+I build full-stack and AI-powered products that combine clean architecture, data reliability, explainable decisions, and real-world usability.
 
 - 🧠 Interested in Software Engineering, AI/ML, Data Science, and Analytics
 - 🔬 Research presenter: CNN-LSTM Image Captioning at ICSTAICE 2026
 - 🏆 4th place at HackVega 2.0 among 47,700+ registrations
-- 🚀 Building systems with ML, APIs, databases, testing, and deployment
-
+- 🚀 Building with ML, APIs, databases, testing, and deployment
 
 ---
 
@@ -82,7 +77,6 @@ I build full-stack and AI-powered products with a focus on:
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111111)
 
 </div>
-</div>
 
 ---
 
@@ -96,40 +90,6 @@ I build full-stack and AI-powered products with a focus on:
 | **[LeaveTrack](https://github.com/Neha-0019/LeaveTrack)** | Enterprise leave-management system with auditable policy rules, role-based workflows, KPI reporting, and automated testing. | Python · Flask · SQLite · Pytest |
 | **[WasteVision-AI](https://github.com/Neha-0019/WasteVision-AI)** | Computer-vision system for automated waste classification and smart sorting with real-time analytics. | Python · EfficientNetV2 · Flask · ML |
 | **[Reconcio](https://github.com/Neha-0019/Reconcio)** | Explainable AI finance controller for gateway, bank, and ledger reconciliation with audit evidence and honest exceptions. | FastAPI · Streamlit · SQLite |
-
----
-
-
-
----
-
-<div align="center">
-
-### Let’s build something useful.
-
-Open to internships, collaborations, and opportunities in  
-**Software Engineering · AI/ML · Data Science · Analytics**
-
-</div>
-
----
-
-## How I build
-
-```mermaid
-flowchart LR
-    A[Real user problem] --> B[Product and system design]
-    B --> C[Build, test, and measure]
-    C --> D[Deploy and iterate]
-```
-
-I am especially interested in software that combines strong engineering with useful intelligence: systems that are dependable for users and explainable to reviewers.
-
-<div align="center">
-
-**Open to internships, collaborations, and full-time opportunities in software engineering, AI/ML, data science, and analytics.**
-
-</div>
 
 ---
 
@@ -158,13 +118,8 @@ I am especially interested in software that combines strong engineering with use
 
 <div align="center">
 
-### Let’s build something useful.
-
-Open to internships, collaborations, and opportunities in  
-**Software Engineering · AI/ML · Data Science · Analytics**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=150&section=footer&text=Let%27s%20build%20something%20useful.&fontSize=26&fontColor=FFFFFF&fontAlignY=55&desc=Open%20to%20internships%20%7C%20Software%20Engineering%20%7C%20AI%2FML%20%7C%20Data%20Science&descSize=14&descAlignY=75&animation=fadeIn" />
 
 </div>
-
-
 
 
