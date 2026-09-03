@@ -28,17 +28,6 @@ I build full-stack and AI-powered products with a focus on:
 - 🚀 Building systems with ML, APIs, databases, testing, and deployment
 
 
-<details open>
-<summary><b>What I care about</b></summary>
-<br>
-
-- Full-stack engineering: React interfaces, Flask/FastAPI services, databases, and APIs.
-- Applied AI/ML: computer vision, NLP, fraud detection, explainability, and analytics.
-- Systems thinking: retries, queues, validation, observability, audit trails, and role-based workflows.
-- Open to software engineering, AI/ML, data science, and analytics opportunities.
-
-</details>
-
 ---
 
 
@@ -110,19 +99,7 @@ I build full-stack and AI-powered products with a focus on:
 
 ---
 
-## 📈 GitHub activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neha-0019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-0019&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha-0019&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
 
 ---
 
@@ -154,6 +131,39 @@ I am especially interested in software that combines strong engineering with use
 
 </div>
 
+---
+
+## 🚀 Contribution game
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Neha-0019/Neha-0019/output/galaga-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Neha-0019/Neha-0019/output/galaga-contribution-graph.svg"
+  />
+  <img
+    alt="Animated Galaga game generated from Neha Panbude's GitHub contributions"
+    src="https://raw.githubusercontent.com/Neha-0019/Neha-0019/output/galaga-contribution-graph-dark.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let’s build something useful.
+
+Open to internships, collaborations, and opportunities in  
+**Software Engineering · AI/ML · Data Science · Analytics**
+
+</div>
 
 
 
